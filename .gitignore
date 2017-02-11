@@ -1,0 +1,14 @@
+node_modules/*
+!node_modules/hal-client
+!node_modules/httpcache
+.vagrant/
+*~
+npm-debug.log
+dump.rdb
+data
+log
+tmp
+.env
+coverage
+.nyc_output
+.DS_Store
